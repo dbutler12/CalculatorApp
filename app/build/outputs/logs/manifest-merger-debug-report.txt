@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7b440653821e1c142961dc71555e2262/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ashravi/.gradle/caches/transforms-2/files-2.1/41717303c284499f6fb466c818f1d84f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/151586bfb858b59052eb05b257c1a535/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/bcbdc8c77e8af116a46771c874c6710b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/030122a1484600050461e719f66cfb09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/a18ff21aae2b3774df044c83673be049/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7026edd44537c72480fde306ed3eafe1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2360c3baccc1b6a66f592dd86274aef8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/85e7257716c5ef67ab5bcf5ab3099280/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/08065e64d49588423138b37b51653cd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/1e46a2221653adecb2234656249bcbfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/34eea425b88e40cba8eab9d982810d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/cb1fca24bd6bab350ecd4899e3076122/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/aecad0d11380eb829b11609a801ed542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/046859e8af63febddbec5281d8bef9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7303aecf02b56583915f9de95824a25c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/f733804cf902d391effd70471fdf335c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/d81f9bfc604d4d00492e708635f76306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5ab62ed8ca76bd77bf4df43506d5c7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/26fe83f61f4d70afc5e0a2ffe6cc7486/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/ba44798b9833a40eb409e76679aeb7f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/fe80788be6936351e8083f56056228f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5f8041cf8188e308a8192671cff52e50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/daeb2264650678655b9d33deac25d608/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/92ae007fb49982422c07d577d64c22df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2d387d130e0adde0650e682d9c919dd0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ashravi/.gradle/caches/transforms-2/files-2.1/41717303c284499f6fb466c818f1d84f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ashravi/.gradle/caches/transforms-2/files-2.1/41717303c284499f6fb466c818f1d84f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7303aecf02b56583915f9de95824a25c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7303aecf02b56583915f9de95824a25c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.testapplication.MainActivity
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7b440653821e1c142961dc71555e2262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7b440653821e1c142961dc71555e2262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ashravi/.gradle/caches/transforms-2/files-2.1/41717303c284499f6fb466c818f1d84f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ashravi/.gradle/caches/transforms-2/files-2.1/41717303c284499f6fb466c818f1d84f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/151586bfb858b59052eb05b257c1a535/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/151586bfb858b59052eb05b257c1a535/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/bcbdc8c77e8af116a46771c874c6710b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/bcbdc8c77e8af116a46771c874c6710b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/030122a1484600050461e719f66cfb09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/030122a1484600050461e719f66cfb09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/a18ff21aae2b3774df044c83673be049/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/a18ff21aae2b3774df044c83673be049/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7026edd44537c72480fde306ed3eafe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7026edd44537c72480fde306ed3eafe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2360c3baccc1b6a66f592dd86274aef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2360c3baccc1b6a66f592dd86274aef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/85e7257716c5ef67ab5bcf5ab3099280/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/85e7257716c5ef67ab5bcf5ab3099280/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/08065e64d49588423138b37b51653cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/08065e64d49588423138b37b51653cd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/1e46a2221653adecb2234656249bcbfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/1e46a2221653adecb2234656249bcbfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/34eea425b88e40cba8eab9d982810d3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/34eea425b88e40cba8eab9d982810d3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/cb1fca24bd6bab350ecd4899e3076122/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/cb1fca24bd6bab350ecd4899e3076122/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/aecad0d11380eb829b11609a801ed542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/aecad0d11380eb829b11609a801ed542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/046859e8af63febddbec5281d8bef9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/046859e8af63febddbec5281d8bef9d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ashravi/.gradle/caches/transforms-2/files-2.1/958781781d1b1065ee2813fddf15d47a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7303aecf02b56583915f9de95824a25c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/7303aecf02b56583915f9de95824a25c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/f733804cf902d391effd70471fdf335c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/f733804cf902d391effd70471fdf335c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/d81f9bfc604d4d00492e708635f76306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/d81f9bfc604d4d00492e708635f76306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5ab62ed8ca76bd77bf4df43506d5c7d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5ab62ed8ca76bd77bf4df43506d5c7d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/26fe83f61f4d70afc5e0a2ffe6cc7486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/26fe83f61f4d70afc5e0a2ffe6cc7486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/ba44798b9833a40eb409e76679aeb7f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/ba44798b9833a40eb409e76679aeb7f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/fe80788be6936351e8083f56056228f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/fe80788be6936351e8083f56056228f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5f8041cf8188e308a8192671cff52e50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/5f8041cf8188e308a8192671cff52e50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/daeb2264650678655b9d33deac25d608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/daeb2264650678655b9d33deac25d608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/92ae007fb49982422c07d577d64c22df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/92ae007fb49982422c07d577d64c22df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2d387d130e0adde0650e682d9c919dd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashravi/.gradle/caches/transforms-2/files-2.1/2d387d130e0adde0650e682d9c919dd0/AndroidManifest.xml:20:5-44
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashravi/AndroidStudioProjects/TestApplication/app/src/main/AndroidManifest.xml

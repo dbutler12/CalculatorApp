@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="button">Button</string>
+    <string name="B2">2</string>
+    <string name="B3">3</string>
+    <string name="life">Life</string>
+</resources>
